@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "name": "neha",
+      "password": "n@",
+      "profile": {
+        "description": "kj",
+        "Birth_date": "mk",
+        "Hobbies": "gyg",
+        "Gender": "bh"
+      }
+    }
+  ]
+}{
+  "user": [
+    {
+      "name": "neha",
+      "password": "n#",
+      "profile": {
+        "description": "ifjk",
+        "Birth_date": "rt",
+        "Hobbies": "def",
+        "Gender": "de"
+      }
+    }
+  ]
+}{
+  "user": [
+    {
+      "name": "neha",
+      "password": "neha@",
+      "profile": {
+        "description": "i love ---",
+        "Birth_date": "23 jan 1999",
+        "Hobbies": "dancing",
+        "Gender": "fmale"
+      }
+    }
+  ]
+}{
+  "user": []
+}

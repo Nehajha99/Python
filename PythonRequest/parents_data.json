@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "3245",
+      "parent_exercise_id": "3245",
+      "name": "Instruction to Volunteer",
+      "slug": "spoken-english__spoken-english/spoken-english-instructionToVolunteer",
+      "sequence_num": 0,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-instructionToVolunteer.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3246",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-1",
+      "slug": "spoken-english__spoken-english/spoken-english-week1",
+      "sequence_num": 1,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week1.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3247",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-2",
+      "slug": "spoken-english__spoken-english/spoken-english-week2",
+      "sequence_num": 2,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week2.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3249",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-3",
+      "slug": "spoken-english__spoken-english/spoken-english-week3",
+      "sequence_num": 3,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week3.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3250",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-4",
+      "slug": "spoken-english__spoken-english/spoken-english-week4",
+      "sequence_num": 4,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week4.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3248",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-5",
+      "slug": "spoken-english__spoken-english/spoken-english-week5",
+      "sequence_num": 5,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week5.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3268",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-6",
+      "slug": "spoken-english__spoken-english/spoken-english-week6",
+      "sequence_num": 6,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week6.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3270",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-7",
+      "slug": "spoken-english__spoken-english/spoken-english-week7",
+      "sequence_num": 7,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week7.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3269",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-8",
+      "slug": "spoken-english__spoken-english/spoken-english-week8",
+      "sequence_num": 8,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week8.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3271",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-9",
+      "slug": "spoken-english__spoken-english/spoken-english-week9",
+      "sequence_num": 9,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week9.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3272",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-10",
+      "slug": "spoken-english__spoken-english/spoken-english-week10",
+      "sequence_num": 10,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week10.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3273",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-11",
+      "slug": "spoken-english__spoken-english/spoken-english-week11",
+      "sequence_num": 11,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week11.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3274",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-12",
+      "slug": "spoken-english__spoken-english/spoken-english-week12",
+      "sequence_num": 12,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week12.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3275",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-13",
+      "slug": "spoken-english__spoken-english/spoken-english-week13",
+      "sequence_num": 13,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week13.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3276",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-14",
+      "slug": "spoken-english__spoken-english/spoken-english-week14",
+      "sequence_num": 14,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week14.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "3277",
+      "parent_exercise_id": "3245",
+      "name": "Spoken English: Week-15",
+      "slug": "spoken-english__spoken-english/spoken-english-week15",
+      "sequence_num": 15,
+      "review_type": "manual",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/spoken-english/spoken-english/spoken-english-week15.md",
+      "submission_type": null,
+      "childExercises": []
+    }
+  ]
+}

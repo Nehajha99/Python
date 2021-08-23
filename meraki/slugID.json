@@ -1,0 +1,12 @@
+{
+    "id": "2396",
+    "parent_exercise_id": "2396",
+    "name": "Basic Questions",
+    "slug": "interviewQuestions__Python/intro",
+    "sequence_num": 2000,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Iss topic mai hum Python  se related questions pe dhan denge do interview mai puche jate hai. \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/intro.md"
+}
